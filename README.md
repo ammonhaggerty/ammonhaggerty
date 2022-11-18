@@ -6,7 +6,7 @@ __`Hi, my name is Ammon Haggerty (@ammonhaggerty)`__
 
 `Then I discovered DESIGN! Graphic design, typography, letterpress, screen printing, grid systems, color theory, art. I made designs for t-shirts, skateboards, album covers, club flyers,` [`magazines,`](https://qaswa.com/rhythmos-issue-2) [`brands.`](https://qaswa.com/37signals)
 
-`Then I discovered code+design. I spent the next 15 years as a design technologist. Making cool websites for `[`Nike,`](https://qaswa.com/nike-skateboarding-v3)` The Olympics, Redbull, MTV...`
+`I re-discovered code. CODE+DESIGN=!!! I spent the next 15 years as a design technologist. Making cool websites for `[`Nike,`](https://qaswa.com/nike-skateboarding-v3)` The Olympics, Redbull, MTV. Made the first web-based` [`reality show`](https://qaswa.com/first-ascent) `in 1998.`
 
 `I got board with the web and joined a band of pirates call Obscura Digital and we made physical/digital` [`immersive experiences`](https://qaswa.com/facebook-ar)`. I designed and build hardware displays and` [`novel computing paradigms.`](https://qaswa.com/bluescape)
 
