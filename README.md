@@ -16,7 +16,7 @@ __`Hi, my name is Ammon Haggerty (@ammonhaggerty)`__
 
 `Created a startup called`[`Formation`](https://qaswa.com/formation) `and raised some $$. Built the loyalty program for Starbucks and United Airlines in Haskell (no engineering, just cheerleading). Got tired of solving enterprise software problems.`
 
-`Started another startup. This time it's a good one called`[`Joinable.`](https://qaswa.com/purpose-and-belonging)`Check it out!`
+`Started another startup. This time it's a good one called`[`Joinable.`](https://joinable.us)`Check it out!`
 
 [`Qaswa`](https://qaswa.com/) | [`Joinable`](https://joinable.us/) | [`LinkedIn`](https://www.linkedin.com/in/ammon/) | [`Music`](https://qaswa.com/music)
 
