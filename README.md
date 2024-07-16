@@ -20,7 +20,7 @@ __`Hi, my name is Ammon Haggerty (@ammonhaggerty)`__
 
 `Now advising some companies(`[`Halcyon`](https://halcyon.eco)`and`[`Pave`](https://pave.team)`) and helping companies explore AI transformation.`
 
-[`Qaswa`](https://qaswa.com/) | [`Joinable`](https://joinable.us/) | [`LinkedIn`](https://www.linkedin.com/in/ammon/) | [`Music`](https://qaswa.com/music)
+[`Qaswa`](https://qaswa.com/) | [`LinkedIn`](https://www.linkedin.com/in/ammon/) | [`Music`](https://qaswa.com/music)
 
 
 <!---
