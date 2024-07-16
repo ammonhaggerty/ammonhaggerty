@@ -10,13 +10,15 @@ __`Hi, my name is Ammon Haggerty (@ammonhaggerty)`__
 
 `Got board, so joined a band of pirates call Obscura Digital and we made physical/digital`[`immersive experiences.`](https://qaswa.com/facebook-ar)`I designed and build hardware displays and`[`novel computing paradigms.`](https://qaswa.com/bluescape)
 
-`Went to Microsoft to work with Blaise Aguera y Arcas on fun stull like HoloLens, Cortana, Photosynth,`[`futuristic wearables.`](https://qaswa.com/serendipity-watch)
+`Went to Microsoft to work with Blaise Aguera y Arcas on fun stull like HoloLens, Cortana, Photosynth,`[`futuristic wearables.`](https://qaswa.com/serendipity-watch) `Ended up deep diving into agentic AI scenarios (we were a little early).`
 
 `Went to BCG. Don't know why. Playing with the big business boys.`
 
-`Created a startup called`[`Formation`](https://qaswa.com/formation) `and raised some $$. Built the loyalty program for Starbucks and United Airlines in Haskell (no engineering, just cheerleading). Got tired of solving enterprise software problems.`
+`Created an AI startup called`[`Formation`](https://qaswa.com/formation) `and raised some $$. Built the loyalty program for Starbucks and United Airlines in Haskell (no engineering, just cheerleading). Got tired of solving enterprise software problems.`
 
-`Started another startup. This time it's a good one called`[`Joinable.`](https://joinable.us)`Check it out!`
+`Started another startup called`[`Joinable.`](https://joinable.us)`, aiming to help address the lonliness and isolation epidempic by encouraging 'social fitness'. Ran out of money, but it's still limping along.`
+
+`Now advising some companies:`[`Halcyon`](https://halcyon.eco)`, `[`Pave`](https://pave.team)`, and helping companies explore AI transformation.`
 
 [`Qaswa`](https://qaswa.com/) | [`Joinable`](https://joinable.us/) | [`LinkedIn`](https://www.linkedin.com/in/ammon/) | [`Music`](https://qaswa.com/music)
 
