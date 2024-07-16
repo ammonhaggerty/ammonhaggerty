@@ -14,7 +14,7 @@ __`Hi, my name is Ammon Haggerty (@ammonhaggerty)`__
 
 `Went to BCG. Don't know why. Playing with the big business boys.`
 
-`Created an AI startup called`[`Formation`](https://qaswa.com/formation) `and raised some $$. Built the loyalty program for Starbucks and United Airlines in Haskell (no engineering, just cheerleading). Got tired of solving enterprise software problems.`
+`Created an AI startup called`[`Formation`](https://qaswa.com/formation) `and raised some $$. Built the loyalty program for Starbucks and United Airlines in Haskell (no engineering, just cheerleading). Aquired by BCG.`
 
 `Started another startup called`[`Joinable,`](https://joinable.us)`aiming to help address the lonliness and isolation epidempic by encouraging 'social fitness'. Ran out of money, but it's still limping along.`
 
