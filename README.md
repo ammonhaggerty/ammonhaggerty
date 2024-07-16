@@ -8,7 +8,7 @@ __`Hi, my name is Ammon Haggerty (@ammonhaggerty)`__
 
 `Re-discovered code. CODE+DESIGN=!!! I spent the next 15 years as a design technologist. Making cool websites for`[`Nike,`](https://qaswa.com/nike-skateboarding-v3)`The Olympics, Redbull, MTV.`
 
-`Joined a band of pirates call Obscura Digital and we made physical/digital`[`immersive experiences.`](https://qaswa.com/facebook-ar)`I designed and build hardware displays and`[`novel computing paradigms.`](https://qaswa.com/bluescape)`We designed the`[`Las Vegas Sphere,`](https://www.thesphere.com/)`for the King of Dubai, but was too much $$ — finally build after I left.` 
+`Joined a band of pirates call Obscura Digital and we made physical/digital`[`immersive experiences.`](https://qaswa.com/facebook-ar)`I designed and build hardware displays and`[`novel computing paradigms.`](https://qaswa.com/bluescape)`We designed the`[`Las Vegas Sphere`](https://www.thesphere.com/)`for the King of Dubai, but was too much $$ — finally built long after I left.` 
 
 `Went to Microsoft to work with Blaise Aguera y Arcas on fun stull like HoloLens, Cortana, Photosynth,`[`futuristic wearables.`](https://qaswa.com/serendipity-watch) `Ended up deep diving into agentic AI scenarios (we were a little early).`
 
