@@ -18,7 +18,7 @@ __`Hi, my name is Ammon Haggerty (@ammonhaggerty)`__
 
 `Started another startup called`[`Joinable.`](https://joinable.us)`, aiming to help address the lonliness and isolation epidempic by encouraging 'social fitness'. Ran out of money, but it's still limping along.`
 
-`Now advising some companies:`[`Halcyon`](https://halcyon.eco)`, `[`Pave`](https://pave.team)`, and helping companies explore AI transformation.`
+`Now advising some companies:`[`Halcyon,`](https://halcyon.eco)[`Pave,`](https://pave.team)`and helping companies explore AI transformation.`
 
 [`Qaswa`](https://qaswa.com/) | [`Joinable`](https://joinable.us/) | [`LinkedIn`](https://www.linkedin.com/in/ammon/) | [`Music`](https://qaswa.com/music)
 
