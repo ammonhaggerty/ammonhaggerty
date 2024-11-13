@@ -24,7 +24,7 @@ __`Hi, my name is Ammon Haggerty (@ammonhaggerty)`__
 
 [`My Digital Twin`](https://qaswa.com/twin)`is an attempt to build a proxy agent that genuinely projects my creative background and interests as a rich-media experience. It's also research and commentary on issues of privacy, trust, and ethical AI. I've`[`made parts of the project open`](https://github.com/ammonhaggerty/my-digital-twin)`under a Responsible AI License (RAIL), sharing my training corpus for discussion and analysis.`
 
-`I created a`[`Personal Agent Exchange protocol`](https://github.com/ammonhaggerty/PAEX)``to help AI-powered personal agents safely negotiate data exchange. The protocol builds on FIPA, a 27 year old standard for intelligent agent communication.` 
+`I created a`[`Personal Agent Exchange protocol`](https://github.com/ammonhaggerty/PAEX)`to help AI-powered personal agents safely negotiate data exchange. The protocol builds on FIPA, a 27 year old standard for intelligent agent communication.` 
 
 `Now advising some companies(`[`Halcyon`](https://halcyon.eco)`and`[`Pave`](https://pave.team)`) and helping companies explore AI transformation.`
 
