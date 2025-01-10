@@ -28,7 +28,7 @@ __`Hi, my name is Ammon Haggerty (@ammonhaggerty)`__
 
 `Now advising some companies(`[`Halcyon`](https://halcyon.eco)`and`[`Pave`](https://pave.team)`) and helping companies explore AI transformation.`
 
-[`Qaswa`](https://qaswa.com/) | [`LinkedIn`](https://www.linkedin.com/in/ammon/) | [`Music`](https://qaswa.com/music) | [`My Twin`](https://qaswa.com/twin)
+[`Qaswa`](https://qaswa.com/) | [`LinkedIn`](https://www.linkedin.com/in/ammon/) | [`Music`](https://qaswa.com/music) | [`My AI Proxy`](https://qaswa.com/twin) | [`Code Sample`](https://gist.github.com/ammonhaggerty/572891968ee5d5078dca9fd98ed12dc1)
 
 
 <!---
