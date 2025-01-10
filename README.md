@@ -16,19 +16,19 @@ __`Hi, my name is Ammon Haggerty (@ammonhaggerty)`__
 
 `Created an AI startup called`[`Formation`](https://qaswa.com/formation) `and raised some $$. Built the loyalty program for Starbucks and United Airlines in Haskell (no engineering, just cheerleading). Acquired by BCG.`
 
-`Started another startup called`[`Joinable,`](https://joinable.us)`aiming to help address the lonliness and isolation epidempic by encouraging 'social fitness'. Ran out of money, but it's still limping along.`
+`Started another startup called Joinable aiming to help address the lonliness and isolation epidempic by encouraging 'social fitness'. Ran out of money in a tough funding environment.`
 
 `Currently exploring creative applications of GenAI — a couple I like quite a lot.`
 
 [`SNDOUT`](https://sndout.com)`is a music discovery app that mines LLMs for music graph knowledge — showing the relationships between artists, and provides a view into the cultural context of artists, their locations, time, influences, etc.`
 
-[`My Digital Twin`](https://qaswa.com/twin)`is an attempt to build a proxy agent that genuinely projects my creative background and interests as a rich-media experience. It's also research and commentary on issues of privacy, trust, and ethical AI. I've`[`made parts of the project open`](https://github.com/ammonhaggerty/my-digital-twin)`under a Responsible AI License (RAIL), sharing my training corpus for discussion and analysis.`
+[`My AI Twin`](https://qaswa.com/twin)`is an attempt to build a proxy agent that genuinely projects my creative background and interests as a rich-media experience. It's also research and commentary on issues of privacy, trust, and ethical AI. I've`[`made parts of the project open`](https://github.com/ammonhaggerty/my-digital-twin)`under a Responsible AI License (RAIL), sharing my training corpus for discussion and analysis.`
 
-`I created a`[`Agent Negotiation & Exchange Protocol`](https://github.com/ammonhaggerty/ANEX)`to help AI-powered personal agents safely negotiate data exchange. The protocol builds on FIPA, a 27 year old standard for intelligent agent communication.` 
+`I created the`[`Agent Negotiation & Exchange Protocol`](https://github.com/ammonhaggerty/ANEX)`to help AI-powered personal agents safely negotiate data exchange. The protocol extends FIPA, a 27 year old standard for intelligent agent communication.` 
 
-`Now advising some companies(`[`Halcyon`](https://halcyon.eco)`and`[`Pave`](https://pave.team)`) and helping companies explore AI transformation.`
+`Currently hands-on advising some startups:`[`Halcyon`](https://halcyon.eco)`and`[`Dashboard.Earth`](https://www.dashboard.earth/)`. Also leading AI product development with`[`Pave`](https://pave.team)`.`
 
-[`Qaswa`](https://qaswa.com/) | [`LinkedIn`](https://www.linkedin.com/in/ammon/) | [`Music`](https://qaswa.com/music) | [`My AI Proxy`](https://qaswa.com/twin) | [`Code Sample`](https://gist.github.com/ammonhaggerty/572891968ee5d5078dca9fd98ed12dc1)
+[`My Work`](https://qaswa.com/) | [`LinkedIn`](https://www.linkedin.com/in/ammon/) | [`Substack`](https://ammon.substack.com/) | [`Code Sample`](https://gist.github.com/ammonhaggerty/572891968ee5d5078dca9fd98ed12dc1)
 
 
 <!---
