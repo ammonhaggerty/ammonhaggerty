@@ -26,7 +26,7 @@ __`Hi, my name is Ammon Haggerty (@ammonhaggerty)`__
 
 `I created the`[`Agent Negotiation & Exchange Protocol`](https://github.com/ammonhaggerty/ANEX)`to help AI-powered personal agents safely negotiate data exchange. The protocol extends FIPA, a 27 year old standard for intelligent agent communication.` 
 
-`Currently hands-on advising some startups:`[`Halcyon`](https://halcyon.eco)`and`[`Dashboard.Earth`](https://www.dashboard.earth/)`. Also leading AI product development with`[`Pave`](https://pave.team)`.`
+`Currently readying the launch of &(`[`and.com`](https://and.com)`) — a solution for agent namespace (&tags - e.g., &ammon) and sovereign data for AI. Also hands-on advising some startups:`[`Halcyon`](https://halcyon.eco)`and`[`Dashboard.Earth`](https://www.dashboard.earth/)`.
 
 [`My Work`](https://qaswa.com/) | [`LinkedIn`](https://www.linkedin.com/in/ammon/) | [`Substack`](https://ammon.substack.com/) | [`Code Sample`](https://gist.github.com/ammonhaggerty/572891968ee5d5078dca9fd98ed12dc1)
 
